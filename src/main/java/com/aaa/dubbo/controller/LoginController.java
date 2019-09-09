@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * @ClassName LoginController
- * @Author 王宇
+ * @Author wang
  * @Date 2019/9/7 0:14
  * @Version 1.0
  */
